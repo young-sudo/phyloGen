@@ -8,6 +8,19 @@ The Phylogenetic Pipeline is a set of tools designed to construct phylogenetic t
 
 The benchmark set of species used in this task comes from the [article](https://pubmed.ncbi.nlm.nih.gov/26400318/) by F. Póntigo, M. Moraga and S.V. Flores, *Molecular phylogeny and a taxonomic proposal for the genus Streptococcus*.
 
+<div align="center">
+  <figure>
+    <img src="img/consensus.png" alt="c" width="400"/>
+    <img src="img/consensus_bootstrap.png" alt="cb" width="400"/>
+    <br>
+    <img src="img/supertree.png" alt="s" width="400"/>
+    <img src="img/supertree_bootstrap.png" alt="sb" width="400"/>
+    <img src="img/supertree_paralogs.png" alt="sp" width="400"/>
+    <br>
+    <figcaption style="text-align:center;"><em>Figure 1. Outputs from each of the methods and comparisons with the species tree from the publication.</em></figcaption>
+  </figure>
+</div>
+
 ## Usage
 
 ### Data preparation
